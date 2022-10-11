@@ -1,3 +1,7 @@
+Install using:
+```
+cordova plugin add https://github.com/QuinnChrest/cordova-plugin-printer
+```
 
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-printer/blob/example/README.md">SAMPLE APP</a> :point_right:</b>
